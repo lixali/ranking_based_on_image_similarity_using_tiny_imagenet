@@ -5,7 +5,7 @@ import numpy as np
 
 
 class VisdomLinePlotter(object):
-    """Plots to Visdom"""
+    """Plots to Visdom""" 
 
     def __init__(self, env_name='main'):
         self.viz = visdom.Visdom()
