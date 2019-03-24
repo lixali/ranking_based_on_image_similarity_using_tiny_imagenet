@@ -1,4 +1,4 @@
-# ranking_based_on_image_similarity_using_tiny_imagenet
+# Ranking_Based_on_Image_Similarity_Using_Tiny_Imagenet
 
 ## Table of contents
 
