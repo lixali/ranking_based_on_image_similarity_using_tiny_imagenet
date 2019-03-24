@@ -419,19 +419,5 @@ Number of Negative image per Query image:  1
 ../tiny-imagenet-200/train/n01443537/images/n01443537_0.JPEG,../tiny-imagenet-200/train/n01443537/images/n01443537_219.JPEG,../tiny-imagenet-200/train/n04099969/images/n04099969_450.JPEG
 ```
 
-### Visualization
-
-#### Training loss and accuracy
-
-<p align="center">
-  <img src="./fig/loss.png" width="80%">
-</p>
-
-
-#### Query results
-
-<p align="center">
-  <img src="./fig/query_result.png" width="80%">
-</p>
 
 
