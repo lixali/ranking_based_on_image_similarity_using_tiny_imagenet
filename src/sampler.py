@@ -3,7 +3,7 @@ import os
 import re
 import argparse
 import numpy as np
-
+ 
 
 def list_pictures(directory, ext='JPEG'):
     """
