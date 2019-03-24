@@ -6,7 +6,7 @@ import numpy as np
 
 import torch
 import torchvision
-import torch.utils.data
+import torch.utils.data 
 import torchvision.transforms as transforms
 
 from numpy import linalg as LA
